@@ -15,6 +15,7 @@ ORG_LOGO="https://www.stellarvexonic.com/vexonic_logo.png"
 [[CURRENCIES]]
 code="VEXONIC"
 issuer="GA2VY27NFIC4GO4UPHMEKNPLWQFZODDSXJQNRVOH4OSOZDW5AXSML2NT"
+home_domain="https://www.stellarvexonic.com/"
 anchor_asset_type="crypto"
 anchor_asset="VEXONIC"
 name="VEXONIC"
