@@ -1,0 +1,7 @@
+{
+    "icons": [
+      { "src": "vexonic_logo.png", "type": "image/png", "sizes": "192x192" },
+      { "src": "vexonic_logo.png", "type": "image/png", "sizes": "512x512" }
+    ]
+  }
+  
