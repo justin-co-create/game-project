@@ -1,0 +1,26 @@
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GBUWPX5WJR5OZTGVZGZCDUVMPRRNRRFUEOVBLAW2Y7RXAGBI7U6MWJQV,
+GA2VY27NFIC4GO4UPHMEKNPLWQFZODDSXJQNRVOH4OSOZDW5AXSML2NT"
+]
+VERSION="2.0.0"
+
+[DOCUMENTATION]
+ORG_NAME="VEXONIC ORG"
+ORG_URL="https://www.stellarvexonic.com/"
+ORG_DESCRIPTION="Play, trade, and earn anytime, anywhere. Vexonic is available on both desktop and mobile devices. Soon on iOS and Android."
+ORG_LOGO="/vexonic_logo.png"
+
+
+[[CURRENCIES]]
+code="VEXONIC"
+issuer="GA2VY27NFIC4GO4UPHMEKNPLWQFZODDSXJQNRVOH4OSOZDW5AXSML2NT"
+anchor_asset_type="crypto"
+anchor_asset="VEXONIC"
+name="VEXONIC"
+desc="Play, trade, and earn anytime, anywhere. Vexonic is available on both desktop and mobile devices. Soon on iOS and Android."
+image="/vexonic_logo.png"
+is_unlimited=false
+# was issued using the open and inclusive Stellar blockchain network.
+
