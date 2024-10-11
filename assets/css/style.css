@@ -303,13 +303,13 @@
 }
  
 .img-btn{
-    width: 14rem;
+    width: 16rem;
     height: auto;
 }
 
 .button-nav::after{
     position: absolute;
-    content: 'Buy VEX' ;
+    content: 'Buy VEXONIC' ;
     color:#fff;
     font-size: 1.8rem;
     left: 50%;
