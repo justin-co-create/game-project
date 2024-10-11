@@ -649,6 +649,7 @@ transform: translate(-50%,-50%);
 }
 
 .point:nth-child(2):after,
+.point:nth-child(3):after,
 .point:nth-child(4):after{
   position: absolute;
   content: '- - - - - -';
@@ -660,16 +661,6 @@ transform: translate(-50%,-50%);
   left: 6.8rem;
 }
 
-.point:nth-child(3):after{
-  position: absolute;
-  content: '- - - - - -';
-  color: #DFB838;
-  font-size: 2.4rem;
-  letter-spacing: -1px;
-  transform: rotate(90deg);
-  bottom: -48%;
-  left: 6.8rem;
-}
 
 
 .point-text-container{
